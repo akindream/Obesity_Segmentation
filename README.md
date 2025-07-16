@@ -1,4 +1,4 @@
-# Obesity_Segmentation
+# Lifestyle Clustering for Health Behavior Segmentation
 ---
 
 # 🧩 Cluster Analysis Summary
