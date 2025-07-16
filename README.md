@@ -1,7 +1,4 @@
 # Obesity_Segmentation
-
-Here’s a professional and GitHub-ready rewrite of your **cluster analysis summary**, formatted for clarity, readability, and markdown rendering:
-
 ---
 
 # 🧩 Cluster Analysis Summary
@@ -127,7 +124,3 @@ This report presents an analysis of clusters derived from health and lifestyle d
   * Low physical activity
   * Low vegetable intake
 * **Profile Summary:** Likely older individuals with reduced mobility, possibly retired.
-
----
-
-Let me know if you want this exported to a `.md` file, Jupyter notebook cell, or integrated into a report with visuals (e.g., violin plots or cluster PCA projections).
